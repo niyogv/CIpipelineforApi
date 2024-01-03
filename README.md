@@ -20,7 +20,12 @@ By automating repetitive tasks, CI reduces the time spent on manual testing and 
 **Continuous Improvement:**
 CI encourages a culture of continuous improvement. Teams can iteratively enhance the CI pipeline to include additional checks, tests, and tools that further improve software quality and development processes.
 
-
-
 # CIpipelineforApi
 This repo represents the ci pipeline for the api collections of postman using newman on github actions
+
+# How pipeline works
+- The name of the collection is "postman API collections"
+- The pipeline triggers on every push to the main branch
+- Install dependencies such as node with version 16 and newman
+- Runs the postman collection
+
