@@ -1,3 +1,11 @@
+# Table of content
+[Why ci pipeline](https://github.com/niyogv/CIpipelineforApi#why-ci-pipeline)
+
+[Ci pipeline for api](https://github.com/niyogv/CIpipelineforApi#cipipelineforapi)
+
+[How it works](https://github.com/niyogv/CIpipelineforApi#how-pipeline-works)
+
+
 # Why ci pipeline
 **Early Detection of Issues:**
 CI pipelines automatically run tests, on every code change. This helps identify issues early in the development process, allowing developers to address them before they become more challenging and costly to fix.
